@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img:hover{
+    opacity:0.7
+}
+img {
+    border-radius: 10px;
+    border:0;
+}
+video{
+    border-radius:10px;
+}
+
+.bi.bi-star{
+        color:white;
+    }
+    .bi.bi-star-half{
+        color:yellow;
+    }
